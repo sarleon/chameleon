@@ -1,0 +1,225 @@
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:7328): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:7328): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+[  90889]   WARN - brains.cidr.execution.debugger - >-interpreter-exec console "signal 6" 
+[  90890]   WARN - brains.cidr.execution.debugger - <^error,msg="The program is not being run." 
+[1415713]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+[3984889]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3984895]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3986818]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3986818]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;./a.out 
+[3986819]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3986823]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3988923]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3988923]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;ls 
+[3988924]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3988928]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3991319]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3991319]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;cd 
+[3991320]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3991323]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3992669]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3992670]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;cd 
+[3992672]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/ClionProjects 
+[3992683]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3993480]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3993480]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;la 
+[3993500]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/ClionProjects 
+[3993501]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3996728]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3996737]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;cd 
+[3996738]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3996746]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3997322]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3997322]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;ls 
+[3997324]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3997328]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[3997909]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[3997910]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;la 
+[3997913]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[3997917]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[33955493]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int *)(turnPtr))" 
+[33955493]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[33955534]   WARN - brains.cidr.execution.debugger - >-var-create - * "turnPtr" 
+[33955535]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[33963647]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int *)(turnPtr))" 
+[33963647]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[33963695]   WARN - brains.cidr.execution.debugger - >-var-create - * "turnPtr" 
+[33963696]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[33967533]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int *)(turnPtr))" 
+[33967533]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[33967574]   WARN - brains.cidr.execution.debugger - >-var-create - * "turnPtr" 
+[33967574]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[34101735]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int *)(turnPtr))" 
+[34101736]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[34101777]   WARN - brains.cidr.execution.debugger - >-var-create - * "turnPtr" 
+[34101777]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[36599352]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int)(cardScore[i]))" 
+[36599352]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[36599393]   WARN - brains.cidr.execution.debugger - >-var-create - * "cardScore[i]" 
+[36599393]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[36665463]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int)(handCard[cardIndex]))" 
+[36665463]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[36665505]   WARN - brains.cidr.execution.debugger - >-var-create - * "handCard[cardIndex]" 
+[36665505]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[37249073]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int)(currentCard))" 
+[37249073]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[37249115]   WARN - brains.cidr.execution.debugger - >-var-create - * "currentCard" 
+[37249115]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[37610438]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int[5])(YHandCard))" 
+[37610439]   WARN - brains.cidr.execution.debugger - <^error,msg="Invalid cast." 
+[37613432]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int[5])(YHandCard))" 
+[37613432]   WARN - brains.cidr.execution.debugger - <^error,msg="Invalid cast." 
+[42019430]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int[5])(XHandCard))" 
+[42019431]   WARN - brains.cidr.execution.debugger - <^error,msg="Invalid cast." 
+[42950066]   WARN - brains.cidr.execution.debugger - >-var-create - * "((int)(currentCardIndex))" 
+[42950066]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[42950108]   WARN - brains.cidr.execution.debugger - >-var-create - * "currentCardIndex" 
+[42950108]   WARN - brains.cidr.execution.debugger - <^error,msg="-var-create: unable to create variable object" 
+[43383368]   WARN - brains.cidr.execution.debugger - >-interpreter-exec console "signal 6" 
+[43383369]   WARN - brains.cidr.execution.debugger - <^error,msg="The program is not being run." 
+[44886369]   WARN - brains.cidr.execution.debugger - >-interpreter-exec console "signal 6" 
+[44886369]   WARN - brains.cidr.execution.debugger - <^error,msg="The program is not being run." 
+[84168639]   WARN - brains.cidr.execution.debugger - >-interpreter-exec console "signal 6" 
+[84168640]   WARN - brains.cidr.execution.debugger - <^error,msg="The program is not being run." 
+[84362724]   WARN - brains.cidr.execution.debugger - >-interpreter-exec console "signal 6" 
+[84362724]   WARN - brains.cidr.execution.debugger - <^error,msg="The program is not being run." 
+[84960888]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[84960889]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;gcc 
+[84960892]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[84960898]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[84968050]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[84968050]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;gcc 
+[84968172]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[84968173]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[84976267]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[84976267]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;gcc 
+[84976346]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[84976350]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[84981242]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[84981242]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;ls 
+[84981243]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[84981247]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[84983374]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[84983374]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;./c 
+[84984494]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[84984495]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:774): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:774): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: Can't load PluginDescriptor[name='NodeJS', classpath='/home/sarleon/.IntelliJIdea2016.1/config/plugins/NodeJS']: until build 144.0 does not match IU-145.597
+WARN: Can't load PluginDescriptor[name='LiveEdit', classpath='/home/sarleon/.IntelliJIdea2016.1/config/plugins/LiveEdit.jar']: until build 144.0 does not match IU-145.597
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:2342): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:2342): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:6376): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:6376): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+[  13279]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[  13286]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:11466): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:11466): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+[  24764]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[  24766]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[ 286008]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[ 286009]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;gcc 
+[ 286138]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[ 286153]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[ 288758]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[ 288758]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;./ch 
+[ 290704]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..cts/chameleon 
+[ 290712]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[ 295584]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[ 295585]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;./ch 
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on
+
+(java:6616): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:6616): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: Can't load PluginDescriptor[name='NodeJS', classpath='/home/sarleon/.IntelliJIdea2016.1/config/plugins/NodeJS']: until build 144.0 does not match IU-145.597
+WARN: Can't load PluginDescriptor[name='LiveEdit', classpath='/home/sarleon/.IntelliJIdea2016.1/config/plugins/LiveEdit.jar']: until build 144.0 does not match IU-145.597
+[ 535244]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[ 565520]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[ 602743]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
